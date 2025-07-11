@@ -15,7 +15,9 @@
       "id": "taqueritos-chile-toreado",
       "name": "Taqueritos Chile Toreado",
       "image": "https://snack.yummiespromociones.com/taqueritos/13-Banner-Producto-960x559-1.webp",
-      "background_color": "#007c34",
+      "product_image": "https://snack.yummiespromociones.com/SnacksyummiesAssets/taqueritos-chile-toreado-2.webp",
+      "background_color": "#095F29",
+      "background_color_2": "#0ACF48",
       "available": "https://snack.yummiespromociones.com/taqueritos/banderas.webp",
       "background_image": "https://snack.yummiespromociones.com/taqueritos/1-Banner-Packs-Gramajes-1920x1118-1.webp",
       "sizes": [
@@ -43,8 +45,10 @@
       "id": "taqueritos-queso-fusion",
       "name": "Taqueritos Queso Fusion",
       "available": "https://snack.yummiespromociones.com/taqueritos/20-Banderas-Web-1080x147-1-300x41.webp",
+      "product_image": "https://snack.yummiespromociones.com/SnacksyummiesAssets/taqueritos-queso-fusion-2.webp",
       "image": "https://snack.yummiespromociones.com/taqueritos/14-Banner-Producto-960x559-1.webp",
-      "background_color": "#eba332",
+      "background_color": "#EBAE03",
+      "background_color_2": "#FFD43E",
       "background_image": "https://snack.yummiespromociones.com/taqueritos/2-Banner-Packs-Gramajes-1920x1118-1.webp",
       "sizes": [
         {
@@ -65,7 +69,9 @@
       "id": "taqueritos-dragon-de-hielo",
       "name": "Taqueritos Dragón Hielo",
       "background_color": "#000000",
+      "background_color_2": "#003488",
       "available": "https://snack.yummiespromociones.com/taqueritos/banderas-taqueritos.webp",
+      "product_image": "https://snack.yummiespromociones.com/SnacksyummiesAssets/taqueritos-dragon-de-hielo-2.webp",
       "image": "https://snack.yummiespromociones.com/taqueritos/Preview-taqueritos-hielo.webp",
       "background_image": "https://snack.yummiespromociones.com/taqueritos/taqueritos-hielo-producto.webp",
       "sizes": [
@@ -87,7 +93,9 @@
       "id": "taqueritos-dragon-de-fuego",
       "name": "Taqueritos Dragón Fuego",
       "background_color": "#000000",
+      "background_color_2": "#500200",
       "image": "https://snack.yummiespromociones.com/taqueritos/Preview-taqueritos-fuego.webp",
+      "product_image": "https://snack.yummiespromociones.com/SnacksyummiesAssets/taqueritos-dragon-de-fuego-2.webp",
       "available": "https://snack.yummiespromociones.com/taqueritos/banderas-taqueritos.webp",
       "background_image": "https://snack.yummiespromociones.com/taqueritos/taqueritos-fuego-producto.webp",
       "sizes": [

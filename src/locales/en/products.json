@@ -15,7 +15,8 @@
       "id": "taqueritos-chile-toreado",
       "name": "Taqueritos Chile Toreado",
       "available": "https://snack.yummiespromociones.com/taqueritos/20-Banderas-Web-1080x147-1-e1747237818134.avif",
-      "background_color": "#007c34",
+      "background_color": "#095F29",
+      "background_color_2": "#0ACF48",
       "image": "https://snack.yummiespromociones.com/taqueritos/13-Banner-Producto-960x559-1.webp",
       "background_image": "https://snack.yummiespromociones.com/taqueritos/1-Banner-Packs-Gramajes-1920x1118-1.webp",
       "sizes": [
